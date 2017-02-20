@@ -1,1 +1,5 @@
 token
+log*
+node_module*
+macros.json*
+embed example.js
