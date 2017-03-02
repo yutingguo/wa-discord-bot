@@ -22,6 +22,7 @@
   "homepage": "https://github.com/krazyito65/wa-discord-bot#readme",
   "dependencies": {
     "discord.io": "github:izy521/discord.io",
+    "forever": "^0.15.3",
     "fs": "0.0.1-security",
     "moment-timezone": "^0.5.11",
     "node-json-db": "^0.7.3",
